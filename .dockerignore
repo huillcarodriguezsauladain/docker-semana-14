@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+.env
+venv/
+.venv/
+*.md
+*.pptx
+*.docx
+evidencias/
+.pytest_cache/
+.coverage
+Dockerfile
+.dockerignore
+docker-compose*.yml
